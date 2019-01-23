@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "32da1c80a07f06e72561abd247b182df"
+    "revision": "be43e2bbe70a69d2a231bde76a658049"
   },
   {
     "url": "assets/css/0.styles.f356e462.css",
@@ -120,8 +120,8 @@ self.__precacheManifest = [
     "revision": "b9c0179997062cfb283f70d912e0cc68"
   },
   {
-    "url": "assets/js/app.221072ad.js",
-    "revision": "09dd3d031100baff9fcd2c2b41f6e8ec"
+    "url": "assets/js/app.893dab59.js",
+    "revision": "802b0ce8052ca7e3b38ca39f6526d76a"
   },
   {
     "url": "assets/js/vendors~docsearch.fb7d639f.js",
@@ -133,7 +133,7 @@ self.__precacheManifest = [
   },
   {
     "url": "hero.png",
-    "revision": "b0451959428f1596d579dd0a4165e5b9"
+    "revision": "dd2078e66324b5927fe4525d06af1287"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -165,87 +165,87 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "33befbb178cab7544c71059fb21f9bac"
+    "revision": "162686dc32f4594890d9fd07e7b87b50"
   },
   {
     "url": "logo.png",
-    "revision": "3280fc6ebe1c0cb9e2599af0864dad95"
+    "revision": "9211627441c4938eb8650b4bdf14630d"
   },
   {
     "url": "resources/blog.html",
-    "revision": "1fee9cccf1139c73305d71ea9ae270f0"
+    "revision": "83266b55c06ee5853ed6a6db274452ff"
   },
   {
     "url": "resources/books.html",
-    "revision": "658ae7a19666eb5fc2e5030beba056b3"
+    "revision": "9d48100b848951bfd1df2652abbebaa8"
   },
   {
     "url": "resources/community.html",
-    "revision": "45593a37794f00a209065de3b66ff48c"
+    "revision": "0e14a49baa7bd020829c0c6d10750156"
   },
   {
     "url": "resources/conferences.html",
-    "revision": "dac4c7f6b24b494d43a1abd82b36f5aa"
+    "revision": "f0ad74e4cb8ef07578b21866bb8c659a"
   },
   {
     "url": "resources/docker.html",
-    "revision": "969ff9416b351d52cfe5b4950d3d492f"
+    "revision": "6876ec2d73879e066fe53ad657471701"
   },
   {
     "url": "resources/examples.html",
-    "revision": "28d4692289b3418df216f4dbfeef7e93"
+    "revision": "f2abd4ef8b5ff1a6ceba63907d708119"
   },
   {
     "url": "resources/external-resources.html",
-    "revision": "a1a2842cd5ba6ac16d67f392f35816cd"
+    "revision": "f64c20a334898557c3267eecaac5288e"
   },
   {
     "url": "resources/job-portal.html",
-    "revision": "0e228fa798861325fc79b4c17cb46161"
+    "revision": "f99e8d4bda68ef24408b56c9ccc5524e"
   },
   {
     "url": "resources/mention-of-nuxtjs.html",
-    "revision": "5d3779278f3315225de460e87eb2a705"
+    "revision": "e248f3287018ca35d30348d921aa5cc5"
   },
   {
     "url": "resources/modules.html",
-    "revision": "25e117a1b5118b231692e9ae0ed7f730"
+    "revision": "b8ca9d1729972094408e46830b952757"
   },
   {
     "url": "resources/official-examples.html",
-    "revision": "f51ecaa678a965240e923f8162c726b3"
+    "revision": "4879299de3f1ba200999d73da8b91e31"
   },
   {
     "url": "resources/official-resources.html",
-    "revision": "5da150835190b4fd8b632d57aa3bc235"
+    "revision": "8b37581731630c93b268b801eb1c3a4a"
   },
   {
     "url": "resources/podcasts.html",
-    "revision": "b2d74673f52149d1e48db979298dfb3a"
+    "revision": "323b1d41ad94763b3c1e79c2c84e35d6"
   },
   {
     "url": "resources/projects-using-nuxtjs.html",
-    "revision": "65394760a89d8030f3fd60f2e1e0d269"
+    "revision": "6a7dfbb7fee1e73f1c9363ad4a8ac9cb"
   },
   {
     "url": "resources/showcase.html",
-    "revision": "5cb0bd57a9052a59a463e2a09e70aee6"
+    "revision": "4987459f7adf0cd31e995d1f1843cca2"
   },
   {
     "url": "resources/starter-template.html",
-    "revision": "c3ab636c00f10ed7b9585f0808eda21a"
+    "revision": "d7ff0b49c0ab190d77eb9c3217624b63"
   },
   {
     "url": "resources/tools.html",
-    "revision": "2c14e3866f22cdbb9413e9a5797f243a"
+    "revision": "12a0fb20f8d708afa400fc887f326949"
   },
   {
     "url": "resources/tutorials.html",
-    "revision": "abbf465c2794f1094f15c289e9d3abcc"
+    "revision": "fdf0e09989d2798b5ad35164f8f5cd11"
   },
   {
     "url": "resources/youtube-channels.html",
-    "revision": "0130a3fd7c89e80048f22e79e34dc8ad"
+    "revision": "3a38861c0566bd6394dd7f53a258a6d5"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
