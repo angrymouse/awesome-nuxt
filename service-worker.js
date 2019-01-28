@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "efb2fb7cb61f1d9679c7b1e04e2beaf0"
+    "revision": "18bf5eca5b591150a054d45496631473"
   },
   {
     "url": "assets/css/0.styles.f356e462.css",
@@ -120,8 +120,8 @@ self.__precacheManifest = [
     "revision": "b9c0179997062cfb283f70d912e0cc68"
   },
   {
-    "url": "assets/js/app.bb38f066.js",
-    "revision": "b59489ca0152e62b93ee814bdc81c1f6"
+    "url": "assets/js/app.f9fb49b0.js",
+    "revision": "b6c268f3f6e72ce7eb2f4799069712b6"
   },
   {
     "url": "assets/js/vendors~docsearch.fb7d639f.js",
@@ -165,7 +165,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "fa736b36e19fdee3b008a1d76dd9b79e"
+    "revision": "0ae8821311f7041d7c438fc2a6ea8c2d"
   },
   {
     "url": "logo.png",
@@ -173,79 +173,79 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/blog.html",
-    "revision": "8bc798f216381cf52426f09f4a130ef4"
+    "revision": "e28cd4554cc35639f83a72d7c0ee3bd4"
   },
   {
     "url": "resources/books.html",
-    "revision": "73a2643605dbdab721940c03f51e0e91"
+    "revision": "61c5e0f6f34033d0768226e0982f94b8"
   },
   {
     "url": "resources/community.html",
-    "revision": "f0e22dd91f883eb9df2f6e2b452eeea6"
+    "revision": "9a8775c2dc67771a991fb80335b339a7"
   },
   {
     "url": "resources/conferences.html",
-    "revision": "28ee942ade39002397459a3924e9d109"
+    "revision": "47f9d1abbe997e3f1f74933fa980196b"
   },
   {
     "url": "resources/docker.html",
-    "revision": "7a1a61b5d725d6b5e7e0791d9e4c2ddb"
+    "revision": "882e5372cadbe78ac848f17ea96dd355"
   },
   {
     "url": "resources/examples.html",
-    "revision": "0008ab506f88bed65d220cc1d286c6ac"
+    "revision": "f462d0f649c441f563114a7681f8716c"
   },
   {
     "url": "resources/external-resources.html",
-    "revision": "9912b3b8a5f9cb0d12ee2bc4094ce763"
+    "revision": "e5c03a9b2e467fcd7f46205cf34dfda9"
   },
   {
     "url": "resources/job-portal.html",
-    "revision": "9005a3926e96d2457cab6121e6d618c0"
+    "revision": "4f0ef19ab0fdf4bb5b0288ad66b59e98"
   },
   {
     "url": "resources/mention-of-nuxtjs.html",
-    "revision": "724fc30213ac5767fef976c95f0d3460"
+    "revision": "4d743379b1fc03b397d0fd1e501a21e8"
   },
   {
     "url": "resources/modules.html",
-    "revision": "b730b4ffc516bb11dc646de320703a9d"
+    "revision": "b891cb487b5c245f65ea46521eca77a6"
   },
   {
     "url": "resources/official-examples.html",
-    "revision": "1f30955956fa05a566f0c8157c9f5298"
+    "revision": "691f9c0d4ed7986945c9af130d5c3ef2"
   },
   {
     "url": "resources/official-resources.html",
-    "revision": "54db7a3374ce7aae74a724a5afafdb4b"
+    "revision": "05d16106aa8cf6dc233efb6d378909ea"
   },
   {
     "url": "resources/podcasts.html",
-    "revision": "c410f7e79aae72173be9b964eb6fc369"
+    "revision": "c14617481ae72ce457e8d79c6e903b5c"
   },
   {
     "url": "resources/projects-using-nuxtjs.html",
-    "revision": "5a1668c4463e01d7f250be91791be8d0"
+    "revision": "74dae83b7a3f10c1311900d42d901e50"
   },
   {
     "url": "resources/showcase.html",
-    "revision": "9d91cfe34367a5923e0ea02422645bc4"
+    "revision": "8af2b558eaaad0e3f25a15daaa17c080"
   },
   {
     "url": "resources/starter-template.html",
-    "revision": "9bf0001b4159b7cfeae1bf46359fdee0"
+    "revision": "09bcb1af7b3d731e775f35b66781eb08"
   },
   {
     "url": "resources/tools.html",
-    "revision": "b02ba140e5a700adf0d78b51cd6e90ae"
+    "revision": "e1d6fe0e036a9df95c2ed13f9d2920c5"
   },
   {
     "url": "resources/tutorials.html",
-    "revision": "c194a1795caa78c921c9418ad76ede34"
+    "revision": "db8b66748a31146b08b2316b3ced8b0f"
   },
   {
     "url": "resources/youtube-channels.html",
-    "revision": "bbbb3b234513b9bf80c95cdb52aa16a6"
+    "revision": "987ac37a98426b70d059b8a19319cf00"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
